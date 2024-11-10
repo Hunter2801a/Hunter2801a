@@ -1,36 +1,49 @@
-👋 ¡Hola! Soy Adrián Jiménez M.
-Desarrollador y estudiante de Desarrollo y Gestión de Software
-Apasionado por la tecnología, amante del aprendizaje continuo y la creación de soluciones a problemas diversos
+# 👋 ¡Hola! Soy Adrián Jiménez M.
 
-Bienvenidos a mi perfil. Aquí encontrarás una selección de proyectos y repositorios con diversos codigos de cosas que he aprendido a lo largo de mi carrera, actualizandome continuamente
+### Desarrollador y estudiante de Desarrollo y Gestión de Software
+> Apasionado por la tecnología, amante del aprendizaje continuo y la creación de soluciones a problemas diversos
 
-🚀 Sobre mí:
-🌱 Actualmente, estoy estudiando Desarrollo y Gestión de Software y mejorando mis habilidades técnicas.
-💼 Busco mejorar tanto mis habilidades técnicas como mis habilidades blandas para ser un profesional completo.
-🎯 Áreas de interés: Desarrollo Full Stack, programación y en parte diseño de bases de datos.
-💬 ¿quieres hablar de algo?, contactame para lo que sea
-🛠️ Tecnologías y Herramientas:
-Lenguajes de Programación: C, C++, Java, JavaScript, SQL
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Bienvenidos a mi perfil. Aquí encontrarás una selección de proyectos y repositorios con diversos códigos de cosas que he aprendido a lo largo de mi carrera, actualizándome continuamente.
 
-Frontend: HTML, CSS, JavaScript
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## 🚀 Sobre mí
 
-Backend y Bases de Datos: SQL
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- 🌱 Actualmente, estoy estudiando **Desarrollo y Gestión de Software** y mejorando mis habilidades técnicas.
+- 💼 Busco mejorar tanto mis **habilidades técnicas** como mis **habilidades blandas** para ser un profesional completo.
+- 🎯 Áreas de interés: Desarrollo Full Stack, programación y diseño de bases de datos.
+- 💬 ¿Quieres hablar de algo? ¡Contáctame para lo que necesites!
 
-Control de Versiones: Git y GitHub
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-Otros: Herramientas para colaboración y gestión de proyectos
-📈 Estadísticas de GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hunter2801a&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter2801a&layout=compact&theme=radical" alt="Top Languages" /> </p>
-📫 Cómo contactarme:
-Correo: adrianalbertojimenez@gmail.com
-instatram: https://www.instagram.com/jimenez_adrian/
+## 🛠️ Tecnologías y Herramientas
+
+**Lenguajes de Programación**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
+
+**Frontend**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+
+**Backend y Bases de Datos**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
+
+**Control de Versiones**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+
+**Otros**: Herramientas para colaboración y gestión de proyectos
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hunter2801a&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter2801a&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 📫 Cómo contactarme
+
+- **Correo**: [adrianalbertojimenez@gmail.com](mailto:adrianalbertojimenez@gmail.com)
+- **Instagram**: [jimenez_adrian](https://www.instagram.com/jimenez_adrian/)
+
