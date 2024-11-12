@@ -5,12 +5,12 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Hunter2801a&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter2801a&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
-
 </p>
 
+<p align="center">
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hunter2801a&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hunter2801a&theme=radical)
-
+</p>
 
 <p align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXluNGE5cWJ6dWltenpkaG96aWZlcjYzNTZoYzk0cnAzemllaTV1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" width="300" alt="GIF divertido"/>
