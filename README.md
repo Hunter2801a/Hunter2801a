@@ -8,10 +8,10 @@
 
 </p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hunter2801a&theme=radical)
+<p align="center">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXluNGE5cWJ6dWltenpkaG96aWZlcjYzNTZoYzk0cnAzemllaTV1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" width="300" alt="GIF divertido"/>
+</p>
 
-
-<img src="https://media.giphy.com/media/YOUR-GIF-ID/giphy.gif" width="300" />
 
 
 
