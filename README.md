@@ -1,6 +1,23 @@
 # 👋 ¡Hola! Soy Adrián Jiménez M.
 
-## 📈 Estadísticas de GitHub
+<p align="center">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXluNGE5cWJ6dWltenpkaG96aWZlcjYzNTZoYzk0cnAzemllaTV1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" width="300" alt="GIF divertido"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZmejZveWFqZjZ5NTluajN3ajc3Nm41cHR1cTI5OGZpanQxYmRjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.webp" width="300" alt="gifVSC" />
+</p>
+
+### Desarrollador y estudiante de Desarrollo y Gestión de Software
+> Apasionado por la tecnología, amante del aprendizaje continuo y la creación de soluciones a problemas diversos
+
+Bienvenidos a mi perfil. Aquí encontrarás una selección de proyectos y repositorios con diversos códigos de cosas que he aprendido a lo largo de mi carrera, actualizándome continuamente.
+
+## 🚀 Sobre mí
+
+- 🌱 Actualmente, estoy estudiando **Desarrollo y Gestión de Software** y mejorando mis habilidades técnicas.
+- 💼 Busco mejorar tanto mis **habilidades técnicas** como mis **habilidades blandas** para ser un profesional completo.
+- 🎯 Áreas de interés: Desarrollo Full Stack, programación y diseño de bases de datos.
+- 💬 ¿Quieres hablar de algo? ¡Contáctame para lo que necesites!
+
+  ## 📈 Estadísticas de GitHub
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Hunter2801a&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
@@ -15,28 +32,6 @@
 
 </div>
 
-
-<p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXluNGE5cWJ6dWltenpkaG96aWZlcjYzNTZoYzk0cnAzemllaTV1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" width="300" alt="GIF divertido"/>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZmejZveWFqZjZ5NTluajN3ajc3Nm41cHR1cTI5OGZpanQxYmRjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.webp" width="300" alt="gifVSC" />
-
-
-</p>
-
-
-
-
-### Desarrollador y estudiante de Desarrollo y Gestión de Software
-> Apasionado por la tecnología, amante del aprendizaje continuo y la creación de soluciones a problemas diversos
-
-Bienvenidos a mi perfil. Aquí encontrarás una selección de proyectos y repositorios con diversos códigos de cosas que he aprendido a lo largo de mi carrera, actualizándome continuamente.
-
-## 🚀 Sobre mí
-
-- 🌱 Actualmente, estoy estudiando **Desarrollo y Gestión de Software** y mejorando mis habilidades técnicas.
-- 💼 Busco mejorar tanto mis **habilidades técnicas** como mis **habilidades blandas** para ser un profesional completo.
-- 🎯 Áreas de interés: Desarrollo Full Stack, programación y diseño de bases de datos.
-- 💬 ¿Quieres hablar de algo? ¡Contáctame para lo que necesites!
 
 ## 🛠️ Tecnologías y Herramientas
 
