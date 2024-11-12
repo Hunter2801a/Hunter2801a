@@ -8,6 +8,10 @@
 
 </p>
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hunter2801a&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hunter2801a&theme=radical)
+
+
 <p align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXluNGE5cWJ6dWltenpkaG96aWZlcjYzNTZoYzk0cnAzemllaTV1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" width="300" alt="GIF divertido"/>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZmejZveWFqZjZ5NTluajN3ajc3Nm41cHR1cTI5OGZpanQxYmRjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.webp" width="300" alt="gifVSC" />
