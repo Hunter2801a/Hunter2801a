@@ -8,6 +8,8 @@
 
 </p>
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 ### Desarrollador y estudiante de Desarrollo y Gestión de Software
 > Apasionado por la tecnología, amante del aprendizaje continuo y la creación de soluciones a problemas diversos
 
