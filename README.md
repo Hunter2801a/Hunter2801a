@@ -1,5 +1,8 @@
 # 👋 ¡Hola! Soy Adrián Jiménez M.
 
+[![Adrián's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hunter2801a)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Desarrollador y estudiante de Desarrollo y Gestión de Software
 > Apasionado por la tecnología, amante del aprendizaje continuo y la creación de soluciones a problemas diversos
 
