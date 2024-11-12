@@ -8,11 +8,7 @@
 
 </p>
 
-### ✨ Algo sobre mí...
-```html
-<p align="center">
-   Soy estudiante apasionado por el desarrollo de software y me encanta aprender nuevas tecnologías.
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hunter2801a&theme=radical)
 
 
 ### Desarrollador y estudiante de Desarrollo y Gestión de Software
