@@ -11,6 +11,10 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hunter2801a&theme=radical)
 
 
+<img src="https://media.giphy.com/media/YOUR-GIF-ID/giphy.gif" width="300" />
+
+
+
 ### Desarrollador y estudiante de Desarrollo y Gestión de Software
 > Apasionado por la tecnología, amante del aprendizaje continuo y la creación de soluciones a problemas diversos
 
