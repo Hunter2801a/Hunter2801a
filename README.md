@@ -1,7 +1,11 @@
 # 👋 ¡Hola! Soy Adrián Jiménez M.
 
-[![Adrián's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hunter2801a)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 Estadísticas de GitHub
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hunter2801a&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter2801a&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ### Desarrollador y estudiante de Desarrollo y Gestión de Software
 > Apasionado por la tecnología, amante del aprendizaje continuo y la creación de soluciones a problemas diversos
@@ -37,13 +41,6 @@ Bienvenidos a mi perfil. Aquí encontrarás una selección de proyectos y reposi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 
 **Otros**: Herramientas para colaboración y gestión de proyectos
-
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hunter2801a&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter2801a&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ## 📫 Cómo contactarme
 
