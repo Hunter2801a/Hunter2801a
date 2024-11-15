@@ -20,8 +20,8 @@ Bienvenidos a mi perfil. Aquí encontrarás una selección de proyectos y reposi
   ## 📈 Estadísticas de GitHub
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Hunter2801a&show_icons=true&theme=radical&cache_seconds=1600" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter2801a&layout=compact&theme=radical&cache_seconds=1600" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Hunter2801a&show_icons=true&theme=radical&cache_seconds=1500" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter2801a&layout=compact&theme=radical&cache_seconds=1500" alt="Top Languages" />
 </p>
 
 <div align="center">
