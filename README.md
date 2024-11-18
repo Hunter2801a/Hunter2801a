@@ -25,11 +25,6 @@ Bienvenidos a mi perfil. Aquí encontrarás una selección de proyectos y reposi
  <img src="https://github-readme-stats.vercel.app/api?username=Hunter2801a&show_icons=true&theme=radical&cache_seconds=1600" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter2801a&layout=compact&theme=radical&cache_seconds=1600" alt="Top Languages" />
 </p>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Drek003&show_icons=true&theme=radical&cache_seconds=1600" alt="GitHub Stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drek003&layout=compact&theme=radical&cache_seconds=1600" alt="Top Languages" />
-</p>
-<div align="center">
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hunter2801a&theme=radical)
 
