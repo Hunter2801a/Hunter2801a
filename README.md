@@ -30,6 +30,9 @@ Bienvenidos a mi perfil. Aquí encontrarás una selección de proyectos y reposi
   ![GitHub Contributions Chart](https://ghchart.rshah.org/Hunter2801a)
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hunter2801a&theme=radical&cache_seconds=30)
+
+  ![Global Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hunter2801a&theme=radical)
+
 </div>
 
   
