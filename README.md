@@ -56,8 +56,8 @@ Bienvenidos a mi perfil. Aquí encontrarás una selección de proyectos y reposi
 **Control de Versiones**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<class="devicon-github-original"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+          
                  
 **Otros**: Herramientas para colaboración y gestión de proyectos
 
