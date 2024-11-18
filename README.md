@@ -26,13 +26,18 @@ Bienvenidos a mi perfil. Aquí encontrarás una selección de proyectos y reposi
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter2801a&layout=compact&theme=radical&cache_seconds=1600" alt="Top Languages" />
 </p>
 
+<div> 
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hunter2801a&theme=radical)
 
 ![GitHub Contributions Chart](https://ghchart.rshah.org/Hunter2801a)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hunter2801a&theme=radical&cache_seconds=30)
 
+
 </div>
+  
+
 
 
 ## 🛠️ Tecnologías y Herramientas
