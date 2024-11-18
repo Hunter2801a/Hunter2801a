@@ -5,7 +5,6 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZmejZveWFqZjZ5NTluajN3ajc3Nm41cHR1cTI5OGZpanQxYmRjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.webp" width="300" alt="gifVSC" />
 </p>
 
-[![Spotify](https://novatorem-hunter.vercel.app/api/spotify)](https://open.spotify.com/user/tu_usuario_de_spotify)
 
 
 ### Desarrollador y estudiante de Desarrollo y Gestión de Software
