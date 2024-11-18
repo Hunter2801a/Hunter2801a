@@ -5,6 +5,10 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZmejZveWFqZjZ5NTluajN3ajc3Nm41cHR1cTI5OGZpanQxYmRjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.webp" width="300" alt="gifVSC" />
 </p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Hola!+Soy+Hunter2801a;Bienvenidos+a+mi+perfil!;Explora+mis+proyectos+cool+🔥">
+</h1>
+
 
 
 ### Desarrollador y estudiante de Desarrollo y Gestión de Software
