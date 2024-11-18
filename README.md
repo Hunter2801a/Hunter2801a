@@ -30,9 +30,7 @@ Bienvenidos a mi perfil. Aquí encontrarás una selección de proyectos y reposi
 
 ![GitHub Contributions Chart](https://ghchart.rshah.org/Hunter2801a)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hunter2801a&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hunter2801a&theme=radical&cache_seconds=30)
 
 
 </div>
