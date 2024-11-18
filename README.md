@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Hola!+Soy+Hunter2801a+🔥">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Hola+a+todos+Soy+Hunter2801a+🔥">
 </h1>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Bienvenidos+a+mi+perfil+🔥">
