@@ -21,7 +21,7 @@ Bienvenidos a mi perfil. Aquí encontrarás una selección de proyectos y reposi
 
 - 🌱 Actualmente, estoy estudiando **Desarrollo y Gestión de Software** y mejorando mis habilidades técnicas.
 - 💼 Busco mejorar tanto mis **habilidades técnicas** como mis **habilidades blandas** para ser un profesional completo.
-- 🎯 Áreas de interés: Desarrollo Full Stack, programación y diseño de bases de datos.
+- 🎯 Áreas de interés:  Desarrollo Full Stack, diseño, programación, supervisión y mantenimiento de paginas web.
 - 💬 ¿Quieres hablar de algo? ¡Contáctame para lo que necesites!
 
   ## 📈 Estadísticas de GitHub
