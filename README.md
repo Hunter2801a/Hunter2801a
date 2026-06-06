@@ -65,9 +65,8 @@ Soy estudiante de **Desarrollo y Gestión de Software** en la Universidad Tecnol
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**StashIMS**](#) | Sistema de gestión de inventario con entornos separados dev/prod | Vue 3 · Inertia · Laravel · Supabase |
-| [**Selenium Testing Lab**](#) | Suite de pruebas automatizadas con POM, CI/CD y screenshots en fallo | Python · Pytest · GitHub Actions |
-| [**Portafolio Personal**](#) | Sitio web personal con diseño responsive y animaciones CSS | HTML · CSS · JavaScript |
+| [**StashIMS**](https://hunter2801a.github.io/StashIMS-Landing/) | Sistema de gestión de inventario con entornos separados dev/prod | Vue 3 · Inertia · Laravel · Supabase |
+| [**Portafolio Personal**](https://hunter2801a.github.io/PortafoliosVirtual/) | Sitio web personal con diseño responsive y animaciones CSS | HTML · CSS · JavaScript |
 
 > Explora más repositorios en [mi perfil](https://github.com/Hunter2801a)
 
