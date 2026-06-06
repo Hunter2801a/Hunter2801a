@@ -1,78 +1,111 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Hola+a+todos+Soy+Hunter2801a+🔥">
-</h1>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Bienvenidos+a+mi+perfil+🔥">
-</h1>
-
-
-<p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXluNGE5cWJ6dWltenpkaG96aWZlcjYzNTZoYzk0cnAzemllaTV1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" width="300" alt="GIF divertido"/>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZmejZveWFqZjZ5NTluajN3ajc3Nm41cHR1cTI5OGZpanQxYmRjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.webp" width="300" alt="gifVSC" />
-</p>
-
-
-### Desarrollador y estudiante de Desarrollo y Gestión de Software
-> Apasionado por la tecnología, amante del aprendizaje continuo y la creación de soluciones a problemas diversos
-
-Bienvenidos a mi perfil. Aquí encontrarás una selección de proyectos y repositorios con diversos códigos de cosas que he aprendido a lo largo de mi carrera, actualizándome continuamente.
-
-## 🚀 Sobre mí
-
-- 🌱 Actualmente, estoy estudiando **Desarrollo y Gestión de Software** y mejorando mis habilidades técnicas.
-- 💼 Busco mejorar tanto mis **habilidades técnicas** como mis **habilidades blandas** para ser un profesional completo.
-- 🎯 Áreas de interés:  Desarrollo Full Stack, diseño, programación, supervisión y mantenimiento de paginas web.
-- 💬 ¿Quieres hablar de algo? ¡Contáctame para lo que necesites!
-
-  ## 📈 Estadísticas de GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hunter2801a&show_icons=true&theme=radical&cache_seconds=1600" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter2801a&layout=compact&theme=radical&cache_seconds=1600" alt="Top Languages" />
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hunter2801a&theme=radical)
 
-  ![GitHub Contributions Chart](https://ghchart.rshah.org/Hunter2801a)
+# Adrian Jiménez — Hunter2801a
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hunter2801a&theme=radical&cache_seconds=30)
+**Desarrollador Full Stack · Estudiante de Ingeniería en Software · Panamá 🇵🇦**
 
-  ![Global Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hunter2801a&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jimenez_adrian/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianalbertojimenez@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hunter2801a.github.io/PortafoliosVirtual/)
+
+---
 
 </div>
 
-  
+##  Sobre mí
 
+Soy estudiante de **Desarrollo y Gestión de Software** en la Universidad Tecnológica de Panamá, con experiencia en desarrollo freelance y proyectos académicos que abarcan desde aplicaciones web full stack hasta pruebas automatizadas y ciberseguridad.
 
+- Trabajando actualmente en proyectos con **Laravel + Vue.js** y **Supabase**
+- Aprendiendo sobre **testing automatizado**, **CI/CD** y **DevSecOps**
+- Interesado en: desarrollo Full Stack, arquitectura de software y soluciones SaaS
+- Disponible para colaboraciones y proyectos freelance
 
-## 🛠️ Tecnologías y Herramientas
+---
 
-**Lenguajes de Programación**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-          
+##  Stack Tecnológico
 
-**Frontend**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+### Lenguajes de Programación
 
-**Backend y Bases de Datos**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Control de Versiones**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-<img src="github-brands-solid.svg" alt="GitHub Logo" width="40" height="40">
+### Frontend
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-                 
-**Otros**: Herramientas para colaboración y gestión de proyectos
+### Backend & Bases de Datos
 
-## 📫 Cómo contactarme
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
-- **Correo**: [adrianalbertojimenez@gmail.com](mailto:adrianalbertojimenez@gmail.com)
-- **Instagram**: [jimenez_adrian](https://www.instagram.com/jimenez_adrian/)
+### Herramientas & DevOps
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+---
+
+##  Proyectos Destacados
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [**StashIMS**](#) | Sistema de gestión de inventario con entornos separados dev/prod | Vue 3 · Inertia · Laravel · Supabase |
+| [**Selenium Testing Lab**](#) | Suite de pruebas automatizadas con POM, CI/CD y screenshots en fallo | Python · Pytest · GitHub Actions |
+| [**Portafolio Personal**](#) | Sitio web personal con diseño responsive y animaciones CSS | HTML · CSS · JavaScript |
+
+> Explora más repositorios en [mi perfil](https://github.com/Hunter2801a)
+
+---
+
+##  Estadísticas de GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hunter2801a&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter2801a&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=Hunter2801a&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hunter2801a&theme=github-compact&hide_border=true&area=true" alt="Activity Graph"/>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hunter2801a&theme=gitdimmed&no-frame=true&column=7&margin-w=5)
+
+</div>
+
+---
+
+##  Contacto
+
+<div align="center">
+
+¿Tienes un proyecto en mente o quieres colaborar?
+
+** adrianalbertojimenez@gmail.com**
+
+[![Instagram](https://img.shields.io/badge/@jimenez__adrian-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jimenez_adrian/)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hunter2801a&style=flat-square&color=blue)
+
+</div>
